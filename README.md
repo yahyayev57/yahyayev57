@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=21F744&background=03030300&size=24&weight=600&lines=%3E+%F0%9F%91%8B+Hi%2C+I'm+Kenan" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21F718&width=435&lines=%3E+%F0%9F%91%8B++Hi++I'm+Kenan)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 🌱 **IT Student** from Azerbaijan passionate about programing and problem-solving.
