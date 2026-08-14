@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21F718&width=435&lines=%3E+%F0%9F%91%8B++Hi++I'm+Kenan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=21F718&width=435&lines=%3E+%F0%9F%91%8B++Hi++I'm+Kenan)](https://git.io/typing-svg)
+
 ### 👨‍💻 About Me
 🌱 **IT Student** from Azerbaijan passionate about programing and problem-solving.
 
