@@ -3,9 +3,9 @@
 </div>
 
 ### 👨‍💻 About Me
-🌱 **IT Student** from Azerbaijan passionate about software development, databases, and problem-solving.
+🌱 **IT Student** from Azerbaijan passionate about programing and problem-solving.
 
-* 🔭 Currently focusing on strengthening my backend and database engineering skills.
+* 🔭 Currently focusing on strengthening my programing and studying.
 * 🎓 Learning and building projects across multiple programming paradigms.
 * 📫 Connect with me: **[https://www.linkedin.com/in/kenan-yahyayev/]** 
 
