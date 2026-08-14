@@ -7,7 +7,7 @@
 
 * 🔭 Currently focusing on strengthening my programing and studying.
 * 🎓 Learning and building projects across multiple programming paradigms.
-* 📫 Connect with me: **[https://www.linkedin.com/in/kenan-yahyayev/]** 
+* 📫 Connect with me: **[LinkedIn](https://www.linkedin.com/in/kenan-yahyayev/)** 
 
 ---
 
